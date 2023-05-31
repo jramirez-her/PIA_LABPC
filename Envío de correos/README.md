@@ -5,7 +5,7 @@
 Esta sección se desarrolló un ejemplo de cómo enviar correos mediante Python.
 
 Entre los scripts:
-- [enviocorreo.py]()
+- [enviocorreo.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Env%C3%ADo%20de%20correos/enviocorreo.py)
 
 
 
