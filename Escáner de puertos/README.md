@@ -5,10 +5,10 @@
 Esta sección se trató algunos ejemplos de scripts desarrollados en Python con la finalidad de hacer escáneres de puertos.
 
 Entre los scripts:
-- [scan_portv1.py]()
-* [scan_portv2.py]()
-+ [scan_portv3.py]()
-- [scan_portv5.py]()
+- [scan_portv1.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Esc%C3%A1ner%20de%20puertos/scan_portv1.py)
+* [scan_portv2.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Esc%C3%A1ner%20de%20puertos/scan_portv2.py)
++ [scan_portv3.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Esc%C3%A1ner%20de%20puertos/scan_portv3.py)
+- [scan_portv5.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Esc%C3%A1ner%20de%20puertos/scan_portv5.py)
 
 
 ### scan_portv1.py
