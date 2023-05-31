@@ -4,12 +4,12 @@
 **Objetivo:** Mostrar ejemplos de scripts en Bash
 Esta sección se trató algunos ejemplos de scripts desarrollados en Bash con tal de ver que tan útil es esta herramienta.
 Entre los scripts:
-- [bro.sh]()
-* [netdiscover.sh]()
-+ [number.sh]()
-- [portscanv1.sh]()
-* [superscan.sh]()
-+ [welcome.sh]()
+- [bro.sh](https://github.com/jramirez-her/PIA_LABPC/blob/main/Scripting%20en%20Bash/bro.sh)
+* [netdiscover.sh](https://github.com/jramirez-her/PIA_LABPC/blob/main/Scripting%20en%20Bash/netdiscover.sh)
++ [number.sh](https://github.com/jramirez-her/PIA_LABPC/blob/main/Scripting%20en%20Bash/number.sh)
+- [portscanv1.sh](https://github.com/jramirez-her/PIA_LABPC/blob/main/Scripting%20en%20Bash/portscanv1.sh)
+* [superscan.sh](https://github.com/jramirez-her/PIA_LABPC/blob/main/Scripting%20en%20Bash/superscan.sh)
++ [welcome.sh](https://github.com/jramirez-her/PIA_LABPC/blob/main/Scripting%20en%20Bash/welcome.sh)
 
 ### welcome.sh
 Este script imprime en consola una bienvenida al usuario que incluye:
