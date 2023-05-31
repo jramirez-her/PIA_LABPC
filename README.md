@@ -8,3 +8,5 @@ Este repositorio está conformado por algunas herramientas desarrolladas en Pyth
 - [Escáner de puertos](https://github.com/jramirez-her/PIA_LABPC/tree/main/Esc%C3%A1ner%20de%20puertos)
 * [Envío de correos](https://github.com/jramirez-her/PIA_LABPC/tree/main/Env%C3%ADo%20de%20correos)
 
+**Elaboró:**
+Joaquin Ramirez Hernandez - 1860939
