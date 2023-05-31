@@ -5,19 +5,19 @@
 
 Esta sección se trató algunos ejemplos de scripts desarrollados en Python y que trabajan con la librería BeautifulSoup para el manejo y extracción de información en páginas web.
 Entre los scripts:
-- [scrpe_quote.py]()
-* [scrap1.py]()
-+ [scrap2.py]()
-- [scrap3.py]()
-* [scrap4.py]()
-+ [scrap5.py]()
-- [scrap6.py]()
-* [scrap7.py]()
-+ [scrap8.py]()
-- [scrap9.py]()
-* [scrap10.py]()
-+ [scrap11.py]()
-- [scrap12.py]()
+- [scrpe_quote.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrape_quote.py)
+* [scrap1.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap1.py)
++ [scrap2.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap2.py)
+- [scrap3.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap3.py)
+* [scrap4.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap4.py)
++ [scrap5.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap5.py)
+- [scrap6.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap6.py)
+* [scrap7.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap7.py)
++ [scrap8.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap8.py)
+- [scrap9.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap9.py)
+* [scrap10.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap10.py)
++ [scrap11.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap11.py)
+- [scrap12.py](https://github.com/jramirez-her/PIA_LABPC/blob/main/Webscrapping/scrap12.py)
 
 ### scrape_quote.sh
 Este script utiliza una página web llamada *Quotes to Scrape* la cual permite realizar pruebas de Webscrapping ofreciendo diversas alterativas de extracción de citas textuales de ciertos autores. Este script utiliza librerías de Python como **requests** para hacer conexión con la página y extraer su contenido mediante un response, y **BeautifulSoup** para el manejo de información de archivos HTML contenidos en el response. Esta última librería nos permitirá manejar la información y extraer citas textuales y autores que están contenidas dentro del código HTML de la página web, todo esto para guardarlas en listas y darles salida en un documento en Excel (.csv) donde se incluirá la cita y el autor que corresponde.
