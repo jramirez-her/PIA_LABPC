@@ -1,6 +1,6 @@
 # PIA_LABPC
 # Producto integrador de aprendizaje de la materia Laboratorio de programacion para ciberseguridad
-Este repositorio esta conformado por algunas herramientas desarrolladas en Python (para el caso la versión 3.10), PowerShell y Bash. Entre ellas:
+Este repositorio está conformado por algunas herramientas desarrolladas en Python (para el caso la versión 3.10), PowerShell y Bash. Entre ellas:
 
 - [Scripting en PowerShell](https://github.com/jramirez-her/PIA_LABPC/blob/main/Scripting%20en%20PowerShell/)
 * [Scripting en Bash](https://github.com/jramirez-her/PIA_LABPC/blob/main/Scripting%20en%20Bash/)
